@@ -1,2 +1,4 @@
 # technicaltest
-visualizador de películas
+movies angular app
+
+
